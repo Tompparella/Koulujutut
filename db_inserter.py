@@ -2,7 +2,7 @@
 # Tommi Kunnari 0543382
 # 22.7.2020
 
-# This program make it easy to insert new data into the given university.db
+# This program makes it easy to insert new data into the given university.db
 # database. It also generates the phone number and email address for student and teacher tables
 # to avoid unnecessary typing. If this was database intended for real use that would naturally be taken out.
 # The program has to be stored in the same path as the .db file.
