@@ -1,2 +1,2 @@
-# Koulujutut
-Tänne kaikki kouluhommat.
+# Schoolwork
+Various small school projects.
